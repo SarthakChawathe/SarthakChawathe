@@ -98,6 +98,13 @@ Here are some ideas to get you started:
   </a>
 </p> -->
 
+
+## 💻 Open Source Work Stats
+
+
+![SarthakChawathe's Github stats](https://github-readme-stats.vercel.app/api?username=SarthakChawathe&show_icons=true)
+
+
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
