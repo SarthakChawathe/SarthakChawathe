@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Haany Ali'
+		current_work = 'Writing code'
+		hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Hyderabad_India()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+
 - 🔭 I’m currently working on: Exploring machine learning algorithms and techniques for predictive analytics.
 - 🌱 I’m currently learning: Advanced statistical modeling and deep learning techniques.
 - 👯 I’m looking to collaborate on: Projects related to natural language processing and sentiment analysis.
