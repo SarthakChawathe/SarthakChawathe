@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on: Projects related to natural language processing and sentiment analysis.
 - 🤔 I’m looking for help with: Optimizing machine learning models for big data processing.
 - 💬 Ask me about: Data preprocessing techniques, feature selection methods, or data visualization tools.
-- 📫 How to reach me: You can reach me through email at your-email@example.com or connect with me on LinkedIn.
+- 📫 How to reach me: You can reach me through email at sarthak.chawathe2012@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sarthak-chawathe-458251256/).
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I enjoy solving puzzles and riddles in my free time to keep my analytical skills sharp.
 
