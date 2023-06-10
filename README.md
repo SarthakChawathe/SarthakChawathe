@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: Exploring machine learning algorithms and techniques for predictive analytics.
+- 🌱 I’m currently learning: Advanced statistical modeling and deep learning techniques.
+- 👯 I’m looking to collaborate on: Projects related to natural language processing and sentiment analysis.
+- 🤔 I’m looking for help with: Optimizing machine learning models for big data processing.
+- 💬 Ask me about: Data preprocessing techniques, feature selection methods, or data visualization tools.
+- 📫 How to reach me: You can reach me through email at your-email@example.com or connect with me on LinkedIn.
+- 😄 Pronouns: He/him.
+- ⚡ Fun fact: I enjoy solving puzzles and riddles in my free time to keep my analytical skills sharp.
+
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SarthakChawathe&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -37,12 +46,5 @@ Here are some ideas to get you started:
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on: Exploring machine learning algorithms and techniques for predictive analytics.
-- 🌱 I’m currently learning: Advanced statistical modeling and deep learning techniques.
-- 👯 I’m looking to collaborate on: Projects related to natural language processing and sentiment analysis.
-- 🤔 I’m looking for help with: Optimizing machine learning models for big data processing.
-- 💬 Ask me about: Data preprocessing techniques, feature selection methods, or data visualization tools.
-- 📫 How to reach me: You can reach me through email at your-email@example.com or connect with me on LinkedIn.
-- 😄 Pronouns: He/him.
-- ⚡ Fun fact: I enjoy solving puzzles and riddles in my free time to keep my analytical skills sharp.
+
 
