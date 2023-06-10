@@ -3,12 +3,12 @@
 ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
+ 	user = 'Sarthak Chawathe'
 		current_work = 'Writing code'
 		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
+				'Photography',
+				'Outdoor / Indoor Sports',
+				'Watching Anime / Sci-Fi movies',
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
