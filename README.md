@@ -13,12 +13,13 @@
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Bloomington_Indiana_USA()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
+		BecomeProficientInMachineLearning()
+		ExpandKnowledge()
+		BuildStrongNetwork()
+		MakePositiveImpact()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
