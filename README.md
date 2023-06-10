@@ -35,7 +35,7 @@
  -->
 <!-- <img align="right" height="400" width="500" alt="" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
  -->
-<img align="right" height="400" width="500" alt="" src="[https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://miro.medium.com/v2/resize:fit:1200/1*XAV25ZJZJtceOJ1Vx6TeDw.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnazhimkalam.medium.com%2Fsupervised-learning-37f7eb55b519&psig=AOvVaw3W5nNAiTNBuFMoQZL6HDNw&ust=1686526065323000&source=images&cd=vfe&ved=0CBAQjRxqGAoTCOjNkKrtuf8CFQAAAAAdAAAAABChAQ)" />
+<img align="right" height="400" width="500" alt="" src="https://miro.medium.com/v2/resize:fit:1200/1*XAV25ZJZJtceOJ1Vx6TeDw.gif" />
 
 <!-- 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
