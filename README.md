@@ -74,7 +74,6 @@ Here are some ideas to get you started:
   </a>
 </p> -->
 
-
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -150,4 +149,16 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+---
+
+<h3>MY FRIEND</h3>
+has a message for you...
+
+<br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+</div>
+<br>
 
