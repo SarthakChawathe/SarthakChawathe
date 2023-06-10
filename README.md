@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 </p> -->
 
 
-## 💻 Open Source Work Stats
+<!-- ## 💻 Open Source Work Stats
 
 
 ![SarthakChawathe's Github stats](https://github-readme-stats.vercel.app/api?username=SarthakChawathe&show_icons=true)
-
+ -->
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
