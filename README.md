@@ -35,7 +35,7 @@
  -->
 <!-- <img align="right" height="400" width="500" alt="" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
  -->
-<img align="right" height="400" width="500" alt="" src="https://miro.medium.com/v2/resize:fit:1200/1*XAV25ZJZJtceOJ1Vx6TeDw.gif" />
+<img align="right" height="300" width="400" alt="" src="https://miro.medium.com/v2/resize:fit:1200/1*XAV25ZJZJtceOJ1Vx6TeDw.gif" />
 
 <!-- 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
