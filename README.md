@@ -20,7 +20,7 @@
 		ExpandKnowledge()
 		BuildStrongNetwork()
 		MakePositiveImpact()
-		# Assume 10 more awesome ambitions here  ;)
+<!-- 		# Assume 10 more awesome ambitions here  ;) -->
 	
  ```
 
