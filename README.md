@@ -41,6 +41,7 @@
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
  -->
 
+## More about me...
 
 - 🔭 I’m currently working on: Exploring machine learning algorithms and techniques for predictive analytics.
 - 🌱 I’m currently learning: Advanced statistical modeling and deep learning techniques.
